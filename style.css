@@ -1,0 +1,40 @@
+h1{
+    background-color: blue;
+    border-radius: 3px;
+    color: yellow
+}
+
+p{
+    color: violet;
+}
+
+h2{
+color : orange;
+background-color: gainsboro
+
+}
+
+*{
+    background-color: blanchedalmond;
+}
+
+*{
+    border:3px;
+}
+
+.image{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.about{
+    display:flex;
+    justify-content: space-around;
+}
